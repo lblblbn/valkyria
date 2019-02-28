@@ -1,3 +1,3 @@
 # Project Valkyria
 
-[Initiating Protocol] >> Mobile Suit Development Program
+[Initiation Protocol] >> Mobile Suit Development Program
